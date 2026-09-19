@@ -8,8 +8,8 @@ On Growthwise, you can discover official tools on:
 3. Motivation,
 4. Learning,
 5. Developing:
--  - Self-Efficacy,
--  - Self-Confidence,
-- Self-Esteem,
-- Self-Worth,
-- Personal Satisfaction.
+[- Self-Efficacy,
+ - Self-Confidence,
+ - Self-Esteem,
+ - Self-Worth,
+ - Personal Satisfaction.]
